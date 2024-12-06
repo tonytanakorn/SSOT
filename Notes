@@ -1,10 +1,20 @@
 In general, when you have account name <account name> and repository name <repository name>:
 
-After modifying settings as:
-Settings > Pages > Build and deployment > Branch > Set to main, Set to /(root)
+after modifying settings as:
+Settings > Pages > Build and deployment > Branch > Set to: main, Set to: /(root)
 
-This will create a project webpage at https://<account name>.github.io/<project name>
+it will create a project webpage at https://<account name>.github.io/<project name>
 
-For example, account name  = tonytanakorn, project name is SSOT.
-After modifying settings of repository SSOT,
-We have a webpage at tonytanakorn.github.io/SSOT
+For example, account name is tonytanakorn, project name is SSOT.
+After modifying the settings of repository SSOT,
+we have a webpage at tonytanakorn.github.io/SSOT
+
+---------------------------------------------------------------------------------------------
+
+In a special case where the repository is named <account name>.github.io
+and the setting is modified the same way as desribed,
+it will create an account webpage at https://<account name>.github.io
+
+For example, account nae is tonytanakorn.
+After modifying the settings of repository tonytanakorn.github.io,
+we have a webpage at tonytanakorn.github.io
