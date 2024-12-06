@@ -16,6 +16,6 @@ In a special case where the repository is named <account name>.github.io
 and the setting is modified the same way as desribed,
 it will create an account webpage at https://<account name>.github.io
 
-For example, account nae is tonytanakorn.
+For example, account name is tonytanakorn.
 After modifying the settings of repository tonytanakorn.github.io,
 we have a webpage at tonytanakorn.github.io
