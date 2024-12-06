@@ -1,2 +1,2 @@
 # SSOT
-Learning GitHub by using SSOT development as a case study.
+This repository is for learning GitHub by using SSOT development as a case study.
