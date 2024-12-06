@@ -4,6 +4,7 @@ after modifying settings as:
 Settings > Pages > Build and deployment > Branch > Set to: main, Set to: /(root)
 
 it will create a project webpage at https://<account name>.github.io/<project name>
+Note that index.htm file will take over README.md
 
 For example, account name is tonytanakorn, project name is SSOT.
 After modifying the settings of repository SSOT,
