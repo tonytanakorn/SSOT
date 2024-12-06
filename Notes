@@ -1,1 +1,10 @@
-In general, if you have account name <account name> and repository named <repository name>.
+In general, when you have account name <account name> and repository name <repository name>:
+
+After modifying settings as:
+Settings > Pages > Build and deployment > Branch > Set to main, Set to /(root)
+
+This will create a project webpage at https://<account name>.github.io/<project name>
+
+For example, account name  = tonytanakorn, project name is SSOT.
+After modifying settings of repository SSOT,
+We have a webpage at tonytanakorn.github.io/SSOT
